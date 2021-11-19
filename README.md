@@ -9,7 +9,7 @@ I'm Leonardo Salazar 🧑‍💻, a **full stack developer** from <img src="http
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lsalazarm99&count_private=true&show_icons=true&hide=prs)
 
 ## 🔍 Where to find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-salazar-1047a4170)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lsalazarm99)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10750938)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/lsalazarm99)
 
