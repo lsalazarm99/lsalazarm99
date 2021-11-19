@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Leonardo Salazar 🧑‍💻, a **fullstack developer** from <img src="https://hatscripts.github.io/circle-flags/flags/pe.svg" width="12" alt="Peruvian flag"> **Lima, Perú**.
+I'm Leonardo Salazar 🧑‍💻, a **full stack developer** from <img src="https://hatscripts.github.io/circle-flags/flags/pe.svg" width="12" alt="Peruvian flag"> **Lima, Perú**.
 
-- 💼 I'm currently working as a **fullstack developer** and **team leader** on **Asociación Cultural Peruano Británica** <img src="https://hatscripts.github.io/circle-flags/flags/pe.svg" width="12" alt="Peruvian flag"> <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12" alt="British flag">.
+- 💼 I'm currently working as a **full stack developer** and **team leader** at **Asociación Cultural Peruano Británica** <img src="https://hatscripts.github.io/circle-flags/flags/pe.svg" width="12" alt="Peruvian flag"> <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12" alt="British flag">.
 - 🌱 I'm currently learning **Electron**.
 - 🔭 I'm looking to learn **Python**.
 - 💡 Some facts: I like to play video games 🎮, listen to classical music 🎼, play the piano 🎹, learn science 🧬 and history 📖 and build things 🔨.
