@@ -45,6 +45,7 @@ I'm Leonardo Salazar 🧑‍💻, a **full stack developer** from <img src="http
 ![Apache](https://img.shields.io/badge/Apache-C22342?style=for-the-badge&logo=apache&logoColor=white)
 
 ![PHP CS Fixer](https://img.shields.io/badge/PHP_CS_Fixer-1A171B?style=for-the-badge&logo=php&logoColor=white)
+![PHPStan](https://img.shields.io/badge/PHPStan-1A171B?style=for-the-badge&logo=php&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-2072B1?style=for-the-badge&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC54?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B33BE?style=for-the-badge&logo=eslint&logoColor=white)
@@ -52,6 +53,8 @@ I'm Leonardo Salazar 🧑‍💻, a **full stack developer** from <img src="http
 
 ![Docker](https://img.shields.io/badge/Docker-2896E9?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F54F31?style=for-the-badge&logo=git&logoColor=white)
+
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-1A73E8?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ![Windows Subsystem for Linux](https://img.shields.io/badge/Windows_Subsystem_for_Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
