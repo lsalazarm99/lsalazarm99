@@ -1,9 +1,9 @@
-## Hi there 👋
+# 👋 Hello World!
 I'm Leonardo Salazar 🧑‍💻, a **full stack developer** from <img src="https://hatscripts.github.io/circle-flags/flags/pe.svg" width="12" alt="Peruvian flag"> **Lima, Perú**.
 
-- 💼 I'm currently working as a **Developer** at [**Alegra**](https://www.alegra.com/).
-- 🌱 I'm currently learning about **Amazon Web Services**.
-- 🔭 I'm looking to learn **Python**.
+- 💼 I'm working remotely as a **Developer** at [**Alegra**](https://www.alegra.com/).
+- 🌱 I'm learning about **Amazon Web Services**.
+- 🔭 I'm looking to learn **Svelte**.
 - 💡 Some facts: I like to play video games 🎮, listen to classical music 🎼, play the piano 🎹, learn science 🧬 and history 📖 and build things 🔨.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lsalazarm99&count_private=true&show_icons=true&hide=prs)
@@ -31,6 +31,7 @@ I'm Leonardo Salazar 🧑‍💻, a **full stack developer** from <img src="http
 ![Laravel](https://img.shields.io/badge/Laravel-FE312A?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-1A171B?style=for-the-badge&logo=symfony&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3F8543?style=for-the-badge&logo=node.js&logoColor=white)
+![Serverless Framework](https://img.shields.io/badge/Serverless_Framework-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-48848E?style=for-the-badge&logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/React-64DAF9?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764BB8?style=for-the-badge&logo=redux&logoColor=white)
@@ -44,6 +45,16 @@ I'm Leonardo Salazar 🧑‍💻, a **full stack developer** from <img src="http
 ![NGINX](https://img.shields.io/badge/NGINX-0C9641?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-C22342?style=for-the-badge&logo=apache&logoColor=white)
 
+![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-CC2264?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS SNS](https://img.shields.io/badge/AWS_SNS-CC2264?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-CC2264?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-1A73E8?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 ![PHP CS Fixer](https://img.shields.io/badge/PHP_CS_Fixer-1A171B?style=for-the-badge&logo=php&logoColor=white)
 ![PHPStan](https://img.shields.io/badge/PHPStan-1A171B?style=for-the-badge&logo=php&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-2072B1?style=for-the-badge&logo=webpack&logoColor=white)
@@ -54,9 +65,7 @@ I'm Leonardo Salazar 🧑‍💻, a **full stack developer** from <img src="http
 ![Docker](https://img.shields.io/badge/Docker-2896E9?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F54F31?style=for-the-badge&logo=git&logoColor=white)
 
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-1A73E8?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-![Windows Subsystem for Linux](https://img.shields.io/badge/Windows_Subsystem_for_Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ![IntelliJ IDEA Ultimate](https://img.shields.io/badge/IntelliJ_IDEA_Ultimate-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
