@@ -51,7 +51,7 @@ I'm Leonardo Salazar 🧑‍💻, a **full stack developer** from <img src="http
 ![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![AWS SQS](https://img.shields.io/badge/AWS_SQS-CC2264?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS SNS](https://img.shields.io/badge/AWS_SNS-CC2264?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-CC2264?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-CC2264?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-1A73E8?style=for-the-badge&logo=google-cloud&logoColor=white)
 
