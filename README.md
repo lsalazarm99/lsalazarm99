@@ -6,17 +6,15 @@ I'm Leonardo Salazar 🧑‍💻, a **full stack developer** from <img src="http
 - 🔭 I'm looking to learn **Svelte**.
 - 💡 Some facts: I like to play video games 🎮, listen to classical music 🎼, play the piano 🎹, learn science 🧬 and history 📖 and build things 🔨.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lsalazarm99&count_private=true&show_icons=true&hide=prs)
-
 ## 🔍 Where to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lsalazarm99)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10750938)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/lsalazarm99)
 
 ## 🛠️ Things I code with
-![PHP](https://img.shields.io/badge/PHP-8892BD?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FCDC3A?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3378C2?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8892BD?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-075898?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E5242b?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-DC4D2E?style=for-the-badge&logo=html5&logoColor=white)
